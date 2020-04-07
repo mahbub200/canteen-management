@@ -1,0 +1,39 @@
+.h{
+	background:#ff4d4d;
+	padding:10px;
+	padding:10px;
+	border:2px solid black;
+	color:black
+}
+#b{
+	color:black;
+}
+#d{
+	height:600px;
+	width:400px;
+	border:2px solid black;
+	background: lightblue;
+	margin:0 auto;
+}
+#form{
+	text-align:center;
+	padding:2px;
+	height:30px;
+	width:280px;
+}
+#img{
+	height:150px;
+	width:200px;
+	margin:0 auto;
+}
+#button{
+	text-align:center;
+	padding:2px;
+	height:30px;
+	width:200px;
+	background:grey;
+	margin:3px;
+
+	
+	
+}
